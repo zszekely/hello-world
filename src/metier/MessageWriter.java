@@ -14,6 +14,8 @@ public class MessageWriter {
 
 		System.out.println("Hi Git !");
 		System.out.println("Hi user !");
+		
+		System.out.println("Task pe dev!");
 
 	}
 }
