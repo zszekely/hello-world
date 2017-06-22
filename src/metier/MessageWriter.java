@@ -15,7 +15,7 @@ public class MessageWriter {
 		System.out.println("Hi Git !");
 		System.out.println("Hi user !");
 		
-		System.out.println("Hi Derby 2!");
+		
 		
 
 		System.out.println("Hi Zoltan !");
