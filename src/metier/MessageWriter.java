@@ -18,7 +18,7 @@ public class MessageWriter {
 		System.out.println("Hi Derby 2!");
 		
 
-
+		System.out.println("Hi Zoltan !");
 		
 		System.out.println("Hi master!");
 		
